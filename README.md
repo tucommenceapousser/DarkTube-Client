@@ -17,7 +17,7 @@ To install and run this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ReactMVC/DarkTube-Client.git
+git clone https://github.com/tucommenceapousser/DarkTube-Client.git
 ```
 
 2. Navigate into the project directory:
